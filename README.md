@@ -7,8 +7,6 @@ A custom rating control for SwiftUI.
 
 **MyRatings** is a  SwiftUI rating view that can be added to any SwiftUI view.  It is customizable and provides you with a way to add a ratings component to your project.
 
-The above example shows three different MyRatings views added to a VStack.  Each one with a different configuration and controlled independently.
-
 ### Requirements
 
 - iOS 13.0+
