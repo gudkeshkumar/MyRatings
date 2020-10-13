@@ -18,8 +18,8 @@ The above example shows three different MyRatings views added to a VStack.  Each
 ### Installation
 
 1. From within Xcode 11 or later, choose **File > Swift Packages > Add Package Dependency**
-2. At the next screen enter https://github.com/MyRatings when asked to choose a Package repository
-3. Choose the latest available version.
+2. At the next screen enter git@github.com:gudkeshkumar/MyRatings.git when asked to choose a Package repository
+3. Choose the master branch.
 4. Add the package to your target.
 
 ### Import MyRatings
